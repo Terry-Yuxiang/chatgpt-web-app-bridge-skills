@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local config and session state (contains machine-specific settings)
+config.json
+state.json
+
+# Claude Code local permissions (machine-specific)
+.claude/settings.local.json
+
+# macOS
+.DS_Store

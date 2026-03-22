@@ -1,0 +1,10 @@
+{
+  "chatgptBridge": {
+    "enabled": true,
+    "autoBridgeAllowed": false,
+    "defaultMode": "diagnosis",
+    "useChatGPTWeb": true,
+    "requireRealResponse": true,
+    "conversationsDir": "~/.ai-bridge/chatgpt-bridge/conversations"
+  }
+}
